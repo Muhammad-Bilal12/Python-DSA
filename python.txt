@@ -1,0 +1,129 @@
+--------------- CAMPUS X ------------------------
+# Lecture 1
+ 
+Why python?
+
+python was created in 1989 before java
+
+1- Design Philosophy
+2- Batteries Included (Do not reinvent the wheel)
+3- General Purpose (procedural - Functional - OOP Language)
+4- Library/Community
+  
+Why python for Data Science?
+
+- Easy to learn
+- Proximity with maths
+- Community
+
+*numpy is design in c language which makes python fast
+
+nitsh.campusx@gmail.com
+
+## Lets Start Python
+-- Practice in google colab
+* python is case sensitive language.
+
+x() -- means its a function 
+1. program "Hello World" -- google colab
+print("text")
+
+## Data Types
+- Integer
+- Float/Decimal
+- Complex (real + imaginary)
+- Boolean
+- Text/String
+- Array -> C -> List
+- Tuple 
+- Sets
+- Dictionary
+
+type() function which return data type
+
+## Variable
+
+- Variable is used to store data 
+a = "bilal" # syngtax of variable
+
+- Interviw Question
+* Dynamic Typing --> auto understand type
+* Static Typing --> where we define data type like c/c++
+* Dynamic Binding --> we can always change data type at every point in python
+
+## Comments
+ - we used comments for developer to understand what we do in our code
+two types of comment 
+# Single Line Comment
+''' MultiLine Comment '''
+
+# Keywords and Identifier
+
+- Compilation --> Process to convert souce code to binary language which understand by the machine
+- Keywords --> words which has a specific meaning in python defined
+* In python there are 32 keywords in python 
+
+- Identifier --> Variable, Function name / variable naming convention rule
+* special charater is not allowed except (_)
+* keywords not allowed
+* Don't start with number
+
+
+## User Input
+- input() # function helps to get input from user
+
+* There are two types of software
+-- static software -- not interact with user
+-- dynamic software -- interact with user
+
+
+* Why python take input in string data tyoe?
+- String is universal data type which stores the every typte of value.
+
+
+## Type Conversion
+
+- Two Types of type conversion
+- Implicit --> Compiler automatically convert the type like (small data convert to big data type)  
+- Explicit --> Forcefully convert big data to small data type
+* several methods to explicit type conversion
+
+str to int
+int() --> convert to data into integer
+* can't convert complex to integer
+
+int to str
+str()
+
+and so on...
+
+## Literals
+- value which store in variable
+integer literals
+0b --> number in binary literals
+0o --> number in octal literals
+0x --> number in hexadecimal literals
+
+float literals
+complex literals
+String Literals
+Unicode Literals
+Escape sequence in String Literals
+
+- None Literals --> Empty
+a = None
+
+in python we cannot declare variabele without value
+
+boolean literals
+* boolean also trets like a number in mathmatical expression
+
+----------------------------------------------------------------
+
+
+
+# Lecture 2
+
+
+
+
