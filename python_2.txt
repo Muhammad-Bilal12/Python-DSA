@@ -1,0 +1,20 @@
+# Lecture 3
+
+-- Loop and Nested Loops
+-- String
+
+** Divide a big problrms into small chunks and try to solve it
+
+## Nested loops
+
+- loop in a loop
+- Break
+- Continue
+- Pass
+
+## String and its Method
+*Python string are immutable (not change)
+- Indexing
+- Slicing
+- Editng And Deleting String
+- lexiographically

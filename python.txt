@@ -124,6 +124,101 @@ boolean literals
 
 # Lecture 2
 
+Topics:
+- Operators
+- IF Else
+- loops
+
+
+## Operator
+Arithmetic Operators (+, -, *, /, [Integer Division //],  [moduus %], [power of **], )
+Relational Operators (>, <, >=, <=, ==, !=)
+Logical Operators (and &&, or ||, not !)
+Bitwise Operators 
+Assignment Operators 
+Membership Operators 
+
+
+### bitwise Operator -- which operates on binary number
+
+- bitwise and (&) [binary addition]
+- bitwise or (|) [bitwise product]
+- bitwise xor (^) [same = 0 , differnt = 1 ]
+- bitwise not (~) [inverse]
+- left shift ( >> ) [shift 2 bit on left]
+- right shift (<<) [shift 2 bit on right]
+
+
+### Assignment Operator
+
+- assignment operator = 
+
+### Membership Operator
+
+available or not
+- in
+- not in
+
+*** Program to find the sum of 3 digit number enter by the user?
+
+## IF Else
+
+- Conditional statement
+- branching on the program
+*** program to make a login authentication
+*** find to make max and min of 3 numbers
+*** Make a calculator program (menu driven number)
+
+## Modules in python
+
+- a python fole which already has some function which we used in our programs
+- math  (for perform mathmethical operation)
+- keywords (generate keyword list)
+- random (for generate random number)
+- datetime (for current date and time)
+
+help('modules') --> print all modules which are available in python
+
+## Loops
+- repeatition 
+- Whilee loop
+- while loop with else
+- for loop
+
+** python tutor for learning purpose
+
+Problems
+** guessing game
+
+- range(1,11) --> to generate number
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
